@@ -1,2 +1,2 @@
 # xcodetutorial
-Xcode tutorial repository for http://xcodetutorial.org
+Repository for [Xcode tutorial](http://xcodetutorial.org "Xcode tutorial")
